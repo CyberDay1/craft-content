@@ -1,0 +1,4 @@
+# Licence texts are kept byte-for-byte as their authors ship them.
+licenses/** -text
+*.sf2 binary
+*.sf3 binary
